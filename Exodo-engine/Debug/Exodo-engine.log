@@ -1,0 +1,21 @@
+﻿  Exodo.cpp
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\graphics\window.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\render\box.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\render\shape.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\render\body.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\input\input.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\input\input.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\mauricio\documents\visual studio 2015\projects\exodo-engine\exodo-engine\src\exodo.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Compiling...
+  entity.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  camera.cpp
+  Exodo-engine.vcxproj -> C:\Users\MAURICIO\Documents\Visual Studio 2015\Projects\Exodo-engine\Debug\Exodo-engine.lib
